@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Card Game</string>
+    <string name="score">Scores: </string>
+    <string name="tries">Tries: </string>
+    <string-array name="type">
+        <item>New Game</item>
+        <item>4 X 1</item>
+        <item>4 X 2</item>
+        <item>4 X 3</item>
+        <item>4 X 4</item>
+        <item>4 X 5</item>
+        </string-array>
+</resources>
